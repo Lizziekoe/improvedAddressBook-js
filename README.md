@@ -5,7 +5,7 @@ This is a simple app to add, edit and search students using Angular.js.
 Clone repository and open the index.html file.
 ```
 
-[View site here](http://lizziekoe.github.io/studentRoster-js/)
+[View site here](http://lizziekoe.github.io/improvedAddressBook-js/)
 
 ### Bug Reports:
 ```
